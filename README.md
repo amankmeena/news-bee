@@ -2,6 +2,14 @@
 
 News Bee is a React-based news aggregator web app that delivers the latest headlines and in-depth stories from around the world. The project is bootstrapped with [Create React App](https://create-react-app.dev/) and leverages [The Guardian Open Platform API](https://open-platform.theguardian.com/) for fetching news articles.
 
+## 🚀 Deployment
+
+✅ This project is deployed using **Vercel** for seamless CI/CD from GitHub.
+
+🔗 **Live Demo**: [View Site](https://news-bee-green.vercel.app/)
+
+📦 **Deployment Platform**: Vercel (connected to `main` branch)
+
 ## Features
 
 - **Category-wise News**: Browse news by categories such as World, Business, Science, Sports, Technology, Environment, Culture, Politics, and Fashion.
